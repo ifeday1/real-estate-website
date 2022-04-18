@@ -48,6 +48,7 @@ nav{
 	width:100%;
 	z-index: 1;
 	background-color: #FFFFFF;
+  position: fixed;
 }
 nav ul{
 	display: flex;
@@ -424,6 +425,8 @@ nav .menu-btn,
 		opacity: 1;
 	}
 }
+
+/* CONTACT */
 .contact{
     background-color: #236c7e;
 	display:flex;
@@ -469,6 +472,8 @@ nav .menu-btn,
 	border-radius: 20px;
 	font-weight: 500;
 }
+
+/* RESPONSIVENESS */
 @media(max-width:1190px){
 	.header{
         background-size: 1150px !important;

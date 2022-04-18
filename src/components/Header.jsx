@@ -8,7 +8,7 @@ const Header = () => {
     <Navbar />
     <div className='intro'>
     <p>Looking for a property !</p>
-    <h1><span>Buy</span>and <span>Sell</span> Proeprties</h1>
+    <h1><span>Buy</span>and <span>Sell</span> Properties</h1>
     <p className='details'>We sell afforadle and reliable houses, the best plug to can 
     ever see with good customer service </p>
     <a href='#' className='header-btn'>Details  </a>
